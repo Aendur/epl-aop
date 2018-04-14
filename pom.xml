@@ -44,6 +44,7 @@
         <source>1.8</source>
         <target>1.8</target>
         <showWeaveInfo>true</showWeaveInfo>
+        <forceAjcCompile>true</forceAjcCompile>
         <verbose>true</verbose>
         <Xlint>ignore</Xlint>
         <encoding>UTF-8 </encoding>
